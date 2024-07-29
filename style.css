@@ -238,7 +238,7 @@ h3{
 }
 
 .check-icon{  
-  background: url(./Images/uncheck.svg); 
+  background: url(./Assets/Images/uncheck.svg); 
   background-repeat: no-repeat;
   height: 1.125rem;
   width: 1.125rem; 
@@ -246,7 +246,7 @@ h3{
 }
 
 .checked{  
-  background: url(./Images/checked.svg); 
+  background: url(./Assets/Images/checked.svg); 
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
